@@ -1,4 +1,4 @@
-import Dashboard from './components/Dashboard'
+import SecurityDashboard from './components/Dashboard'
 
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Dashboard />
+      <SecurityDashboard />
     </>
   )
 }
